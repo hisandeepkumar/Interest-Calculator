@@ -42,3 +42,12 @@ A simple and ad-free **Simple & Compound Interest Calculator** that allows users
 2. Click on **"Add to Home Screen"** (on supported browsers).
 3. Use the app even when offline!
 
+🔗 Live Demo
+
+## 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/🚀-Visit_Live_Demo-blue?style=for-the-badge)](https://hisandeepkumar.github.io/Ncert-/)  
+
+## 📢 Connect with Me  
+[![Instagram](https://img.shields.io/badge/📸-Follow_Me_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandeep_yadav_._._/)
+---
+
